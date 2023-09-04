@@ -96,14 +96,14 @@ export default function HomePage() {
 
 
   const deposit = async () => {
-    if (atm && transactionAmount > 0) {
+    if (atm ) {
       let tx = await atm.deposit(1);
       await tx.wait();
       getBalance();
       setTransactionDetails({
         time: new Date().toLocaleString(),
         type: "Deposit",
-        amount: transactionAmount,
+        amount: 1,
       });
     }
   };
@@ -111,14 +111,14 @@ export default function HomePage() {
 
   
   const withdraw = async () => {
-    if (atm && transactionAmount > 0) {
+    if (atm ) {
       let tx = await atm.withdraw(1);
       await tx.wait();
       getBalance();
       setTransactionDetails({
         time: new Date().toLocaleString(),
         type: "Withdrawal",
-        amount: transactionAmount,
+        amount: 1,
       });
     }
   };
