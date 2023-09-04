@@ -11,6 +11,10 @@ This is a basic cryptocurrency wallet implemented in Solidity and JavaScript. It
 - Display your account balance in INR with the "Display Balance in INR" button.
 - Display your account balance in USD with the "Display Balance in USD" button.
 
+- ## Description
+* index.js -  is a javascript file that contains the features of website of our crypto wallet
+* assessment.sol -  is a solidity file that contains the implementations of the methods used or provided in the front end of the website.
+
 ## Getting Started
 
 You can simply use the repository in Gitpod or in your personal computer.
