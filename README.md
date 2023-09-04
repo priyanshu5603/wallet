@@ -24,10 +24,10 @@ Installation command for Gitpod
  6. Now the website will host on local server [http://localhost:3000/]
 
 
-##License
+## License
 
 This project has been licensed under the MIT License
 
-##Support
+## Support
 For any queries feel free to write me at - 21021739@geu.ac.in
                                            [Priyanshu Pandey]
