@@ -204,7 +204,7 @@ const [transactionAmount, setTransactionAmount] = useState(0);
       <style jsx>{`
         .container {
           text-align:left;
-          background-image: url('https://images.pexels.com/photos/14911392/pexels-photo-14911392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+          background-image: url('https://images.pexels.com/photos/373883/pexels-photo-373883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
           background-size: cover;
           background-position: center;
           min-height: 100vh;
