@@ -27,3 +27,7 @@ Installation command for Gitpod
 ##License
 
 This project has been licensed under the MIT License
+
+##Support
+For any queries feel free to write me at - 21021739@geu.ac.in
+                                           [Priyanshu Pandey]
